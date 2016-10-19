@@ -5,7 +5,7 @@ Cells are detected to understand their decision making capabilities.
  
 Batch 1 
 <p align="center">
-  <img src="CellDetection/1.png" width="350"/>
+  <img src="https://github.com/bhaumikmistry/CellDetection/blob/master/1.png" width="350"/>
   <img src="CellDetection/4.png" width="350"/>
 </p>
 
