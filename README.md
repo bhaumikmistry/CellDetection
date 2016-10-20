@@ -2,8 +2,9 @@ Moving Cell Detection.
 
 Cell detection in a maze, where cells are moving from one side to another.
 Cells are detected to understand their decision making capabilities.
- 
-Batch 1 
+
+
+<p align="center"> Batch 1 </p>
 <p align="center">
   <img src="https://github.com/bhaumikmistry/CellDetection/blob/master/images/1.png" width="350"/>
   <img src="https://github.com/bhaumikmistry/CellDetection/blob/master/images/4.png" width="350"/>
